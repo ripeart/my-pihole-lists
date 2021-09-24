@@ -1,21 +1,55 @@
 id,type,domain,enabled,date_added,date_modified,comment
-19,3,^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.],1,1585426668,1608564394,
-20,3,^(.+[-_.])??ad[sxv]?[0-9]*[-_.],1,1585426668,1608564396,
-21,3,^(.+[-_.])??telemetry[-.],1,1585426668,1608564398,
-22,3,^(.+[-_.])??xn--,1,1585426668,1608564400,
-23,3,^adim(age|g)s?[0-9]*[-_.],1,1585426668,1608564401,
-24,3,^adtrack(er|ing)?[0-9]*[-.],1,1585426668,1608564403,
-25,3,^advert(s|is(ing|ements?))?[0-9]*[-_.],1,1585426668,1608564404,
-26,3,^aff(iliat(es?|ion))?[-.],1,1585426668,1608564405,
-27,3,^analytics?[-.],1,1585426668,1608564406,
-28,3,^banners?[-.],1,1585426668,1608564408,
-29,3,^beacons?[0-9]*[-.],1,1585426668,1608564427,
-30,3,^count(ers?)?[0-9]*[-.],1,1585426668,1608564421,
-31,3,^pixels?[-.],1,1585426668,1608564418,
-32,3,^stat(s|istics)?[0-9]*[-.],1,1585426668,1608564415,
-33,3,^track(ers?|ing)?[0-9]*[-.],1,1585426668,1608564413,
-34,3,^traff(ic)?[-.],1,1585426668,1608564412,
-35,3,^(ads|logs|cloudservices).roku.com$,1,1585426668,1608564411,
-36,0,track.shipstation.com,1,1586220825,1589684086,"USPS tracking"
-37,0,ib.huluim.com,1,1593787890,1593787985,"Hulu scrubbing thumbnails"
-43,2,^beacons([0-9])?\.(gcp\.)?gvt([0-9])\.com$,1,1608398374,1608398374,"Fixes Google Meet buttons"
+1,0,clientconfig.passport.net,1,1589320444,1632454976,"Migrated from /etc/pihole/whitelist.txt"
+3,0,googleapis.l.google.com,1,1589320444,1632454976,"Migrated from /etc/pihole/whitelist.txt"
+4,0,gravatar.com,1,1589320444,1632454976,"Migrated from /etc/pihole/whitelist.txt"
+5,0,hugedomains.com,1,1589320444,1632454976,"Migrated from /etc/pihole/whitelist.txt"
+6,0,themoviedb.com,1,1589320444,1632454976,"Migrated from /etc/pihole/whitelist.txt"
+7,0,thetvdb.com,1,1589320444,1632454976,"Migrated from /etc/pihole/whitelist.txt"
+8,0,v10.events.data.microsoft.com,1,1589320444,1632454976,"Migrated from /etc/pihole/whitelist.txt"
+9,0,v20.events.data.microsoft.com,1,1589320444,1632454976,"Migrated from /etc/pihole/whitelist.txt"
+11,0,clients1.google.com,1,1589320444,1632454976,"Migrated from /etc/pihole/whitelist.txt"
+13,0,r20.rs6.net,1,1589320444,1632454976,"Migrated from /etc/pihole/whitelist.txt"
+14,0,receive-lp1.dg.srv.nintendo.net,1,1590932172,1632454976,""
+15,0,ecs-lp1.hac.shop.nintendo.net,1,1590932184,1632454976,""
+16,0,accounts.nintendo.com,1,1590932190,1632454976,""
+17,0,bugyo.hac.lp1.eshop.nintendo.net,1,1590932197,1632454976,""
+18,0,dauth-lp1.ndas.srv.nintendo.net,1,1590932204,1632454976,""
+19,0,sun.hac.lp1.d4c.nintendo.net,1,1590932229,1632454976,""
+20,0,conntest.nintendowifi.net,1,1590932237,1632454976,""
+21,0,e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com,1,1590932257,1632454976,""
+22,0,app-a03.lp1.npns.srv.nintendo.net,1,1590932264,1632454976,""
+23,3,(^|\.)muscdn\.com$,1,1593301470,1632454976,tiktok1
+24,3,(^|\.)musical\.ly$,1,1593301479,1632454976,tiktok2
+25,1,mon-va.tiktokv.com,1,1593375050,1632454976,
+27,1,frontier-va.tiktokv.com,1,1593375091,1632454976,
+28,1,v16m.tiktokcdn.com,1,1593375096,1632454976,
+29,1,gecko16-normal-c-useast2a.tiktokv.com,1,1593375111,1632454976,
+30,1,log-va.tiktokv.com,1,1593375117,1632454976,
+31,1,api19-va.tiktokv.com,1,1593375120,1632454976,
+32,1,api19-core-c-useast1a.tiktokv.com,1,1593375124,1632454976,
+33,1,log16-normal-c-useast1a.tiktokv.com,1,1593375127,1632454976,
+34,1,api19-normal-c-useast2a.tiktokv.com,1,1593375134,1632454976,
+35,1,api19-core-c-useast2a.tiktokv.com,1,1593375137,1632454976,
+36,1,api19-core-va.tiktokv.com,1,1593375140,1632454976,
+37,1,log16-normal-c-useast2a.tiktokv.com,1,1593375147,1632454976,
+38,1,verification-va.tiktokv.com,1,1593375150,1632454976,
+39,1,dm16-useast2a.tiktokv.com,1,1593375153,1632454976,
+40,1,api16-va.tiktokv.com,1,1593375156,1632454976,
+41,1,api16-normal-c-useast2a.tiktokv.com,1,1593375159,1632454976,
+42,1,api16-normal-c-useast1a.tiktokv.com,1,1593375162,1632454976,
+43,1,api16-core-va.tiktokv.com,1,1593375166,1632454976,
+44,1,api-va.tiktokv.com,1,1593375169,1632454976,
+45,1,api16-core-c-useast2a.tiktokv.com,1,1593375172,1632454976,
+46,1,api16-core-c-useast1a.tiktokv.com,1,1593375176,1632454976,
+47,0,imageproxy.ifunny.co,1,1605409064,1632454976,"Added from Query Log"
+48,0,img.ifunny.co,1,1605409075,1632454976,"Added from Query Log"
+49,0,ec.walkme.com,1,1628868363,1632454976,"Added from Query Log"
+50,0,plexget.com,1,1629474776,1632454976,
+51,0,beacons.gcp.gvt2.com,1,1630454750,1632454976,
+52,0,beacons.gvt2.com,1,1630454762,1632454976,
+53,0,beacons2.gvt2.com,1,1630454772,1632454976,
+54,0,beacons3.gvt2.com,1,1630454782,1632454976,
+55,0,beacons4.gvt2.com,1,1630454787,1632454976,
+56,0,beacons5.gvt2.com,1,1630454794,1632454976,
+57,0,beacons5.gvt3.com,1,1630454799,1632454976,
+58,0,insights-collector.newrelic.com,1,1630905161,1632454976,"Added from Query Log"
