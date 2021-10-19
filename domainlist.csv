@@ -53,3 +53,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 56,0,beacons5.gvt2.com,1,1630454794,1632454976,
 57,0,beacons5.gvt3.com,1,1630454799,1632454976,
 58,0,insights-collector.newrelic.com,1,1630905161,1632454976,"Added from Query Log"
+59,0,linksynergy.com,1,1634620209,1634620209,
