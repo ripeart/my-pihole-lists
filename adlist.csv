@@ -1,11 +1,11 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1589320444,1632454976,"Migrated from /etc/pihole/adlists.list",1636440421,93790,0,1
-3,http://sysctl.org/cameleon/hosts,1,1589320444,1632454976,"Migrated from /etc/pihole/adlists.list",1636440422,20566,0,1
-4,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1589320444,1632454976,"Migrated from /etc/pihole/adlists.list",1636440423,34,0,1
-5,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1589320444,1632454976,"Migrated from /etc/pihole/adlists.list",1636440423,2701,0,1
-8,https://dbl.oisd.nl,1,1589320444,1632454976,"Migrated from /etc/pihole/adlists.list",1636440426,1039940,0,1
-10,https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt,1,1593374939,1632454976,"",1636440427,24,0,1
-11,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1629294279,1632454976,,1636440428,402140,0,1
-12,https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt,1,1629294306,1632454976,,1636440428,13468,0,1
-13,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1629294429,1632454976,,1636440429,6172,0,1
-14,https://someonewhocares.org/hosts/zero/hosts,1,1629294467,1632454976,,1636440431,16959,0,1
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1589320444,1632454976,"Migrated from /etc/pihole/adlists.list",1636863782,93946,0,1
+3,http://sysctl.org/cameleon/hosts,1,1589320444,1632454976,"Migrated from /etc/pihole/adlists.list",1636440422,20566,0,2
+4,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1589320444,1632454976,"Migrated from /etc/pihole/adlists.list",1636440423,34,0,2
+5,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1589320444,1632454976,"Migrated from /etc/pihole/adlists.list",1636440423,2701,0,2
+8,https://dbl.oisd.nl,1,1589320444,1632454976,"Migrated from /etc/pihole/adlists.list",1636863787,1040141,0,1
+10,https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt,1,1593374939,1632454976,"",1636440427,24,0,2
+11,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1629294279,1632454976,,1636863788,403138,0,1
+12,https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt,1,1629294306,1632454976,,1636863789,13469,0,1
+13,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1629294429,1632454976,,1636440429,6172,0,2
+14,https://someonewhocares.org/hosts/zero/hosts,1,1629294467,1632454976,,1636440431,16959,0,2
