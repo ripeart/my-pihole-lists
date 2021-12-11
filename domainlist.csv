@@ -55,3 +55,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 58,0,insights-collector.newrelic.com,1,1630905161,1632454976,"Added from Query Log"
 59,0,linksynergy.com,1,1634620209,1634620209,
 60,2,(\.|^)linksynergy\.com$,1,1636440317,1636440317,
+61,0,gulf.moneroocean.stream,1,1639193579,1639193579,"Added from Query Log"
