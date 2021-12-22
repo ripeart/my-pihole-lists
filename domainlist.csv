@@ -58,4 +58,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 61,0,gulf.moneroocean.stream,1,1639193579,1639193579,"Added from Query Log"
 62,2,(\.|^)fonts\.gstatic\.com$,1,1640131544,1640131544,
 63,2,(\.|^)coiminerz\.com$,1,1640189783,1640189783,
-64,0,coinminerz.com,1,1640189816,1640189816,"Added from Query Log"
+65,0,us-stratum.coinminerz.com,1,1640204204,1640204204,"Added from Query Log"
+66,0,coinminerz.com,1,1640204225,1640204225,"Added from Query Log"
