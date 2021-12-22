@@ -57,3 +57,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 60,2,(\.|^)linksynergy\.com$,1,1636440317,1636440317,
 61,0,gulf.moneroocean.stream,1,1639193579,1639193579,"Added from Query Log"
 62,2,(\.|^)fonts\.gstatic\.com$,1,1640131544,1640131544,
+63,2,(\.|^)coiminerz\.com$,1,1640189783,1640189783,
+64,0,coinminerz.com,1,1640189816,1640189816,"Added from Query Log"
